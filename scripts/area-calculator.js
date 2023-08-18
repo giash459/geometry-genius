@@ -42,3 +42,8 @@ function calculateRectangleArea(){
     rectangleAreaSpan.innerText = area;
 
 }
+
+// reusable function ----> reduce duplicate code
+function calculateParallelogramArea(){
+    console.log('ufytdyguhih')
+}
